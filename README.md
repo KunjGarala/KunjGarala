@@ -34,11 +34,6 @@
 </p>
 
 <h3 align="left">🧮 LeetCode Stats:</h3>
-### 🧮 LeetCode Stats
 
-<!-- Contest Stats Card -->
-[![LeetCode Contest Stats](https://leetcard.jacoblin.cool/kunj_garala05?theme=chartreuse&font=Antic&ext=contest)](https://leetcode.com/kunj_garala05/)
-
-<!-- Heatmap Card -->
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/kunj_garala05?theme=chartreuse&font=Antic&ext=heatmap)](https://leetcode.com/kunj_garala05/)
 
