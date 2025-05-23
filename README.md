@@ -34,8 +34,11 @@
 </p>
 
 <h3 align="left">🧮 LeetCode Stats:</h3>
-<p align="left">
-  <a href="https://leetcode.com/kunj_garala05/">
-    <img src="https://leetcard.jacoblin.cool/kunj_garala05?theme=dark&font=Montserrat&extension=activity" alt="LeetCode Stats" />
-  </a>
-</p>
+### 🧮 LeetCode Stats
+
+<!-- Contest Stats Card -->
+[![LeetCode Contest Stats](https://leetcard.jacoblin.cool/kunj_garala05?theme=chartreuse&font=Antic&ext=contest)](https://leetcode.com/kunj_garala05/)
+
+<!-- Heatmap Card -->
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/kunj_garala05?theme=chartreuse&font=Antic&ext=heatmap)](https://leetcode.com/kunj_garala05/)
+
