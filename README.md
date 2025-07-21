@@ -5,7 +5,7 @@
 
 - 📫 How to reach me [kunjgarala55@gmail](mailto:kunjgarala55@gmail) | [LinkedIn](https://www.linkedin.com/in/kunj-garala) | [Portfolio](https://kunjgarala.vercel.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Id-9fKm1dBMXU8QCuzG1obPjkgnuDEb/view?usp=drive_link](https://drive.google.com/file/d/11Id-9fKm1dBMXU8QCuzG1obPjkgnuDEb/view?usp=drive_link)
+- 📄 Know about my experiences [https://www.kunjgarala.tech/assets/Kunj%20Garala-Cyosnltv.pdf](https://www.kunjgarala.tech/assets/Kunj%20Garala-Cyosnltv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
