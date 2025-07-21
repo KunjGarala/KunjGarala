@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunj Garala</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://kunjgarala.vercel.app](https://kunjgarala.vercel.app)
+- 👨‍💻 All of my projects are available at [https://kunjgarala.tech](https://kunjgarala.tech)
 
 - 📫 How to reach me [kunjgarala55@gmail](mailto:kunjgarala55@gmail) | [LinkedIn](https://www.linkedin.com/in/kunj-garala) | [Portfolio](https://kunjgarala.vercel.app)
 
