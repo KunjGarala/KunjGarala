@@ -92,7 +92,7 @@
 - 👨‍💻 **Portfolio:** [https://kunjgarala.tech](https://kunjgarala.tech)
 - 📫 **Email:** [kunjgarala55@gmail.com](mailto:kunjgarala55@gmail.com)
 - 💼 **LinkedIn:** [Kunj Garala](https://www.linkedin.com/in/kunj-garala)
-- 📄 **Resume:** [Download CV](https://www.kunjgarala.tech/assets/Kunj%20Garala-Cyosnltv.pdf)
+- 📄 **Resume:** [Resume](https://drive.google.com/drive/u/1/folders/1jQH8TAgMbsac-2mn7DfP-y4dDp6L0fsu)
 
 ---
 
