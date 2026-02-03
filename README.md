@@ -92,7 +92,7 @@
 - 👨‍💻 **Portfolio:** [https://kunjgarala.tech](https://kunjgarala.tech)
 - 📫 **Email:** [kunjgarala55@gmail.com](mailto:kunjgarala55@gmail.com)
 - 💼 **LinkedIn:** [Kunj Garala](https://www.linkedin.com/in/kunj-garala)
-- 📄 **Resume:** [Resume](https://drive.google.com/file/d/1NNd2qPJLo3eBJD3OL1jzSedW8_pN7cun/view)
+- 📄 **Resume:** [Resume](https://drive.google.com/file/d/1mWDFmDZn877DtXfzrUfu5Tht6CGE-ZXW/view?usp=drive_link)
 
 ---
 
