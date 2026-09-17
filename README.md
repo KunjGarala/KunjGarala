@@ -2,9 +2,9 @@
 
 ## 🎓 Education
 
-**B.Tech. (Computer Engineering)** – **8.36 CGPA** (Up to 4th Semester)  
+**B.Tech. (Computer Engineering)** – **8.46 CGPA** (Up to 6th Semester)  
 **CHAROTAR UNIVERSITY OF SCIENCE & TECHNOLOGY (CHARUSAT)**  
-*2023 – 2025* (Currently Pursuing)
+*2023 – 2026* (Currently Pursuing)
 
 ## 💼 Experience
 
